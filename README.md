@@ -6,7 +6,7 @@
 
 ✔️ I am interested in  development and have contributed to some of the open-source organisations . I also enjoy doing competitive programming. <br>
 
-✔️ I have experience in MERN stack .<br>
+✔️ I have experience in MEAN stack .<br>
 
 ✔️ I have been the participant of  open-source event such as HacktoberFest'20.
 
