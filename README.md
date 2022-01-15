@@ -12,11 +12,7 @@
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riti2409/)](https://www.linkedin.com/in/riti2409/) 
-
-
----
-
+[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riti2409/)](https://www.linkedin.com/in/riti2409/)
 
 [![Gmail Badge](https://img.shields.io/badge/-ritikumariupadhyay24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikumariupadhyay24@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
 
