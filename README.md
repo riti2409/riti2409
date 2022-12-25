@@ -9,7 +9,9 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Riti Kumari**, currently pursuing my bachelors from UCET VBU,Hazaribagh in *Computer and Science Engineering*. <br>
+✔️ I am **Riti Kumari**, currently working as an *SDE-2 @Walmart*.  <br>
+
+✔️ I have completed my bachelors from UCET VBU, Hazaribagh in *Computer and Science Engineering*. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
 
