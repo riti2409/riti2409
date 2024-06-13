@@ -9,13 +9,15 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Riti Kumari**, a Software Developer and a CSE grad from UCET, VBU. <br>
+✔️ I am **Riti Kumari**, a passionate Software Developer and a CSE graduate from UCET, VBU. <br>
 
-✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
+✔️ My interests lie in development, and I've had the pleasure of contributing to various open-source organizations. Competitive programming is another arena I enjoy and actively participate in. <br>
 
-✔️ I have experience in FULL stack web development .<br>
+✔️ With solid experience in full-stack web development, I thrive on creating and enhancing web applications. <br>
 
-✔️ I have been the participant of many open-source events.
+✔️ I've actively participated in numerous open-source events, which have enriched my skills and expanded my network. <br>
+
+✔️ Let's connect and collaborate!
 
 <br>
 
