@@ -11,7 +11,7 @@
 
 ✔️ I am **Riti Kumari**, a passionate Software Developer and a CSE graduate from UCET, VBU. <br>
 
-✔️ My interests lie in development, and I've had the pleasure of contributing to various open-source organizations. Competitive programming is another arena I enjoy and actively participate in. <br>
+✔️ My interests lie in development, and I've had the pleasure of contributing to various open-source organizations. Problem-solving is another arena I really enjoy and love to engage in. <br>
 
 ✔️ With solid experience in full-stack web development, I thrive on creating and enhancing web applications. <br>
 
