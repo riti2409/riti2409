@@ -9,13 +9,13 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Riti Kumari**, currently pursuing my bachelors from UCET VBU,Hazaribagh in *Computer and Science Engineering*. <br>
+✔️ I am **Riti Kumari**, a Software Developer and a CSE grad from UCET, VBU *. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
 
 ✔️ I have experience in FULL stack web development .<br>
 
-✔️ I have been the participant of  open-source event such as HacktoberFest'20.
+✔️ I have been the participant of many open-source events.
 
 <br>
 
