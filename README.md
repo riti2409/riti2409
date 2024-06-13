@@ -45,9 +45,6 @@
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
 
-
-<!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=riti2409)  
  
  
  <hr>
