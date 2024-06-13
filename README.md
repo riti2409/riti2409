@@ -9,7 +9,7 @@
 <!--ABOUT ME CODE-->
 🌱 **About myself**<br>
 
-✔️ I am **Riti Kumari**, a Software Developer and a CSE grad from UCET, VBU*. <br>
+✔️ I am **Riti Kumari**, a Software Developer and a CSE grad from UCET, VBU. <br>
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming. <br>
 
